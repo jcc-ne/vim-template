@@ -1,3 +1,10 @@
+=====
+About
+=====
+Forked from `aperezdc/vim-template`
+Patches from `linuxcaffe/taskwiki-template` for taskwiki integration
+
+
 =============================
  Simple Vim templates plugin
 =============================
