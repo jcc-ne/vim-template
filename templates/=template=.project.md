@@ -14,7 +14,7 @@ Files			::
 
 === %CLASS% Next Tasks | (+next -COMPLETED or +end:today or +OVERDUE or +DUE) and project:%FILEP% ===
 
-=== %CLASS% Recent Tasks | (+ACTIVE or end:yesterday) and project:%FILEP% ===
+=== %CLASS% Recent Tasks | (+ACTIVE or end:yesterday or end:today) and project:%FILEP% ===
 
 === %CLASS% Pending Tasks | +PENDING project:%FILEP% ===
 
@@ -22,6 +22,7 @@ Files			::
 
 === %CLASS% Completed Tasks | +COMPLETED project:%FILEP% | status:completed ===
 
+== %CLASS% Project Notes/ Brainstorm ==
 
 == %CLASS% Project Scope ==
 
@@ -32,10 +33,6 @@ Files			::
 == %CLASS% Project People ==
 
 == %CLASS% Project Financial ==
-
-== %CLASS% Project Notes/ Brainstorm ==
-
-== %CLASS% Project Ledger ==
 
 == %CLASS% Project Timelog ==
 
